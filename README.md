@@ -1,5 +1,7 @@
 # React_JS_Todo
 
+![todo](https://github.com/DzmitryKaporski/React_JS_Todo)
+
 Приложение ToDo List (список дел), которое включает в себя следующие
 элементы:
 

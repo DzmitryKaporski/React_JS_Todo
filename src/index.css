@@ -2,6 +2,7 @@ body {
   display: flex;
   justify-content: center;
   margin: 0;
+  padding-bottom: 19%;
   background: url(https://clck.ru/Pf4eW);
   background-size: cover;
   background-attachment: fixed;

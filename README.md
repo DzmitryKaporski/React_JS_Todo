@@ -1,4 +1,4 @@
-# React_JS_Todo
+[React_JS_Todo](https://admiring-sinoussi-5ee43b.netlify.app)
 
 Приложение ToDo List (список дел), которое включает в себя следующие
 элементы:
